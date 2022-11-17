@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\nDers1\6nDers2\bin\Debug\6nDers2.exe.config
+C:\Users\ASUS\source\repos\nDers1\6nDers2\bin\Debug\6nDers2.exe
+C:\Users\ASUS\source\repos\nDers1\6nDers2\bin\Debug\6nDers2.pdb
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\6nDers2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\6nDers2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\_6nDers2.Form1.resources
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\_6nDers2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\6nDers2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\6nDers2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\6nDers2.exe
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\6nDers2.pdb
+C:\Users\ASUS\source\repos\nDers1\6nDers2\obj\Debug\_6nDers2.Form2.resources
